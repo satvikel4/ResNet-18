@@ -1,0 +1,3 @@
+# README
+
+This project involves building and training a convolutional neural network (CNN) from scratch as well as using built-in PyTorch modules to construct and finetune the ResNet-18 architecture with various strategies. The models are trained on the MiniPlaces dataset, providing a comprehensive environment for developing and evaluating image classification techniques. Additionally, the project includes visualizing the attention of ResNet-18 using Class Activation Mapping (CAM). For extra credit, the project requires the development of an original model to compete on a test leaderboard, encouraging creative and competitive machine learning practices.
